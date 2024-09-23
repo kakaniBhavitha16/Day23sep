@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width= , initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="./response.html" method="post">
+    Crispy chicken+crunchy chicken taco. Rs.218<br>
+    <h2>Customise as per your taste</h2><hr>
+    
+    <pre><input type="Checkbox"> Fries(S)+coke(save Rs56)                           +Rs.112<input type="checkbox"></pre>
+    <pre><input type="Checkbox"> Fries(M)+coke(save Rs60)                           +Rs.149<input type="checkbox"></pre>
+    <pre><input type="Checkbox">Fries(L)+coke(save Rs80)                            +Rs.169<input type="checkbox"></pre>
+    <h2> Choose your sides & dessert(0/4)</h2>
+    <pre><input type="checkbox"> veggie Strip(5pcs)                                 +Rs.59<input type="checkbox"></pre>
+    <pre><input type="checkbox"> Med fries                                          +Rs.119<input type="checkbox"></pre>
+    <pre><input type="checkbox"> Peri Peri fries                                    +Rs.28.57<input type="checkbox"></pre>
+    <pre><input type="checkbox"> chicken nuggets                                    +Rs.95<input type="checkbox"></pre>
+    <pre><s>Rs.6666</s> Rs.139                                      <input type="submit" value="Add to cart"></pre> 
+    </form>
+</body>
+</html>
